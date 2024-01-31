@@ -1,4 +1,4 @@
-# Authenticated CRUD Application
+# Product Management System with CRUD operations
 
 This repository contains the source code for an authenticated CRUD (Create, Read, Update, Delete) application. The application provides functionalities for user authentication and authorization, allowing authenticated users to perform CRUD operations on a database.
 
